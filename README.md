@@ -15,11 +15,6 @@ This project explores and analyzes real-world transactional data from Walmart to
 ├── walmart_clean_data.csv # Cleaned Walmart sales dataset
 ├── Walmart_sales.ipynb # Python notebook for data exploration
 └── README.md # Project overview and documentation
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Dataset Description
